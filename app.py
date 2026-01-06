@@ -164,4 +164,5 @@ elif page == "Safety & Anomalies":
 
 # --- FOOTER ---
 st.markdown("---")
-st.markdown("© 2025 EcoSmart Project | MSc Data Science Dissertation")
+
+st.markdown("© 2025 EcoSmart Project | MSc Data Science Dissertation | Salman Hassan - 24069469")
